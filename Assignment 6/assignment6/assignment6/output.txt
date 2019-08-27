@@ -1,0 +1,15 @@
+isSubstring This: Exception-Trie has not been built yet
+isSubstring Sign: 1
+isSubstring and: 0
+isSubstring e.Y: 0
+numSubstrings is 1: 3
+numSubstrings E. 1: 1
+numSubstrings his 0: 2
+posSubstrings is 1: 2,5,55
+posSubstrings his 1: 1,54
+numFuzzySubstrings and 1 1: 1
+numFuzzySubstrings ate 2 1: 14
+posFuzzySubstrings and 1 0: 8
+posFuzzySubstrings ate 1 0: 28
+posFuzzySubstrings fear 1 1: -1
+ *** You can ignore the lines for which no answer is expected from the program ***

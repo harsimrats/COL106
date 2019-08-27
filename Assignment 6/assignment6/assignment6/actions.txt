@@ -1,0 +1,15 @@
+isSubstring This
+makeSuffixTrie input.txt
+isSubstring Sign
+isSubstring and
+isSubstring e.Y
+numSubstrings is 1
+numSubstrings E. 1
+numSubstrings his 0
+posSubstrings is 1
+posSubstrings his 1
+numFuzzySubstrings and 1 1
+numFuzzySubstrings ate 2 1
+posFuzzySubstrings and 1 0
+posFuzzySubstrings ate 1 0
+posFuzzySubstrings fear 1 1
